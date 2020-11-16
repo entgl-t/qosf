@@ -1,5 +1,4 @@
-# qosf
-Task 4
+# Description
 
 Find the lowest eigenvalue of the following matrix:
 
